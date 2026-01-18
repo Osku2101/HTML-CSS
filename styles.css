@@ -17,8 +17,8 @@ h1 {
 }
 
 img {
-    width: auto;
-    height: auto;
+    width: 100px;
+    height: 100px;
     float: right;
     margin: 0 0 16px 16px;
 }
